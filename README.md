@@ -1,6 +1,6 @@
 ## ReactJs Project template 
 
-This is a template for react project with  sass and  Bootstrap add to it
+This is a template for [react](https://reactjs.org/) project with  [sass](https://sass-lang.com/),[Bootstrap](https://getbootstrap.com/) and [npm GitHub-pages](https://www.npmjs.com/package/gh-pages) add to it
 
 clone this repo and then you can do
 
