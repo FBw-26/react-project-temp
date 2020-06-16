@@ -6,7 +6,7 @@ clone this repo and then you can do
 
 ### `npm install`
 
-Will install all the needed packages form npm and will create ** node_modules **
+Will install all the needed packages form npm and will create ```node_modules```
 
 
 ### `npm start`
