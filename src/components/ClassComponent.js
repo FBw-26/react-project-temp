@@ -1,7 +1,7 @@
 import React from "react";
-import functionalComponent from "./functionalComponent";
+import FunctionalComponent from "./FunctionalComponent";
 
-export default class classComponent extends React.Component {
+export default class ClassComponent extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -11,7 +11,7 @@ export default class classComponent extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <functionalComponent propsName={this.state} />
+        <FunctionalComponent propsName={this.state} />
       </React.Fragment>
     );
   }
