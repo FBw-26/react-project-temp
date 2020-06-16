@@ -1,21 +1,26 @@
 {
-  "name": "17-06",
+  "name": "react-project-temp",
   "version": "1.0.0",
-  "description": "",
+  "description": "project template",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "publish": "gh-pages -d dist"
   },
   "author": "Hadi Nsreeny",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.5.0",
+    "gh-pages": "^3.0.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   },
   "browserslist": {
     "production": [
